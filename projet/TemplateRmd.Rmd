@@ -11,11 +11,11 @@ output:
 
 <style>
 #sidebar {
-  background: red;
+  background: seagreen;
 }
 
 #postamble {
-  background:#003366;
+  background:gold;
   border-top:solid 10px #5A7B9C;
 }
 
