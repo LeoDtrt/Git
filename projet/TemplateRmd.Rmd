@@ -11,7 +11,7 @@ output:
 
 <style>
 #sidebar {
-  background: red;
+  background: grey;
 }
 
 #postamble {
@@ -21,11 +21,11 @@ output:
 
 .title {
   text-align: center;
-  color: #003366;
+  color: red;
 }
 
 .subtitle {
-  color: #003366;
+  color: red;
 }
 
 h1, h2, h3, h4, h5, h6, legend {
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6, legend {
 }
 
 #content h2 {
-    background-color: #003366;
+    background-color: red;
 }
 </style>
 
