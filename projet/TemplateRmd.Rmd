@@ -11,29 +11,29 @@ output:
 
 <style>
 #sidebar {
-  background: red;
+  background: #FFFF00;
 }
 
 #postamble {
-  background:#003366;
-  border-top:solid 10px #5A7B9C;
+  background:#FFFF00;
+  border-top:solid 10px black;
 }
 
 .title {
   text-align: center;
-  color: #003366;
+  color: black;
 }
 
 .subtitle {
-  color: #003366;
+  color: black;
 }
 
 h1, h2, h3, h4, h5, h6, legend {
-  color: #5A7B9C;
+  color: black;
 }
 
 #content h2 {
-    background-color: #003366;
+    background-color: #FFFF00;
 }
 </style>
 
